@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.17.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev-server": "encore dev-server",
+    "dev": "encore dev",
+    "watch": "encore dev --watch",
+    "build": "encore production"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "material-ui": "^0.20.0",
+    "mdbootstrap": "^4.5.1",
+    "mdbreact": "^4.3.0",
+    "mdreact": "^0.1.5",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-avatar": "^2.5.1",
+    "react-calendar": "^2.14.0",
+    "react-datepicker": "^1.5.0",
+    "react-dom": "^16.2.0",
+    "react-events-calendar": "^1.0.0-beta.3",
+    "react-router-dom": "^4.2.2",
+    "react-signup-login-component": "^1.0.3",
+    "react-tabs": "^2.2.2",
+    "react-user-avatar": "^1.10.0"
+  }
+}
